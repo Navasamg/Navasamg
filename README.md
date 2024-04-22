@@ -1,7 +1,6 @@
 ### Olá, sou o Matheus Navas! 😉
 ### Sejam bem vindos ao meu lar 👨‍💻
 
-- 💻 hoje ajudo e dou aulas para alunos de TI
 - 📚 estou cursando Engenharia de software
 - 🥇 estou a procura de conhecimento e experiência na área
 - 📫 meu email para contato (srematheus@gmail.com)
