@@ -2,7 +2,6 @@
 ### Sejam bem vindos ao meu lar 👨‍💻
 
 - 📚 estou cursando Engenharia de software
-- 🥇 estou a procura de conhecimento e experiência na área
 - 📫 meu email para contato (srematheus@gmail.com)
 
 <div> 
